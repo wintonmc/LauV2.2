@@ -1,0 +1,474 @@
+[0430/163952:ERROR:renderer_main.cc(212)] Running without renderer sandbox
+[0430/164059:ERROR:renderer_main.cc(212)] Running without renderer sandbox
+[0430/164059:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0430/164059:ERROR:cache_util.cc(132)] Unable to move cache folder chache to old_chache_000
+[0430/164059:ERROR:cache_creator.cc(133)] Unable to create cache
+[0430/164603:ERROR:renderer_main.cc(212)] Running without renderer sandbox
+[0430/164603:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0430/164603:ERROR:cache_util.cc(132)] Unable to move cache folder chache to old_chache_000
+[0430/164603:ERROR:cache_creator.cc(133)] Unable to create cache
+[0430/164605:ERROR:renderer_main.cc(212)] Running without renderer sandbox
+[0430/164640:ERROR:renderer_main.cc(212)] Running without renderer sandbox
+[0430/164640:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0430/164640:ERROR:cache_util.cc(132)] Unable to move cache folder chache to old_chache_000
+[0430/164640:ERROR:cache_creator.cc(133)] Unable to create cache
+[0430/164646:ERROR:renderer_main.cc(212)] Running without renderer sandbox
+[0430/165002:WARNING:http_cache_transaction.cc(2266)] Multiple or malformed validation headers found.
+[0430/170017:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/53/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/53/ (357)
+[0430/170019:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588280344&server_name=S53&flag=dc1df42eeef57fd10858e699b46bae64' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588280344&server_name=S53&flag=dc1df42eeef57fd10858e699b46bae64 (16)
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=4
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=5
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=6
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=7
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=8
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=9
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=10
+[0430/170035:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=11
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=12
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=13
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=14
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=15
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=16
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=17
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=18
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=19
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=20
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=21
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=22
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=23
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=24
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=25
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=26
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=27
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=28
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=29
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=30
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=31
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=32
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=33
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=34
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=35
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=36
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=37
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=38
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=39
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=40
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=41
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=42
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=43
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=44
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=45
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=46
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=47
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=48
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=49
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=50
+[0430/170036:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=51
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=52
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=53
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=54
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=55
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=56
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=57
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=58
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=59
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=60
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=61
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=62
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=63
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=64
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=65
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=66
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=67
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=68
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=69
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=70
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=71
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=72
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=73
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=74
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=75
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=76
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=77
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=78
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=79
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=80
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=81
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=82
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=83
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=84
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=85
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=86
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=87
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=88
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=89
+[0430/170037:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=90
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=91
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=92
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=93
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=94
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=95
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=96
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=97
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=98
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=99
+[0430/170038:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=100
+[0430/170038:WARNING:audio_sync_reader.cc(115)] (log cap reached, suppressing further logs)
+[0430/170121:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/170121:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 325ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170133:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170133:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/170136:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:INFO:CONSOLE(1)] "[ReadStateStore] deleting 1 read states.", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/170136:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/171703:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/171704:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588281350&server_name=S53&flag=d9a14715fd88320af412e319c37730f3' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588281350&server_name=S53&flag=d9a14715fd88320af412e319c37730f3 (16)
+[0430/172417:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/172418:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588281785&server_name=S53&flag=b106db103fbc137af47d7972fe6db635' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588281785&server_name=S53&flag=b106db103fbc137af47d7972fe6db635 (16)
+[0430/172418:INFO:CONSOLE(1)] "Uncaught ReferenceError: Swal is not defined", source: https://www.gamesow.com/playgame/11/ (1)
+[0430/172418:INFO:CONSOLE(1)] "Uncaught ReferenceError: Swal is not defined", source: https://www.gamesow.com/playgame/11/ (1)
+[0430/172419:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/172419:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/172420:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/172452:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/172452:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588281819&server_name=S53&flag=2c5647845a9270d277aa123705c43857' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588281819&server_name=S53&flag=2c5647845a9270d277aa123705c43857 (16)
+[0430/172533:INFO:CONSOLE(1)] "Uncaught ReferenceError: Swal is not defined", source: https://www.gamesow.com/playgame/11/ (1)
+[0430/172533:INFO:CONSOLE(1)] "Uncaught ReferenceError: Swal is not defined", source: https://www.gamesow.com/playgame/11/ (1)
+[0430/172533:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/173318:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/173318:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282325&server_name=S53&flag=2e9d7009761d2d4dc06cee8fe097a40b' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282325&server_name=S53&flag=2e9d7009761d2d4dc06cee8fe097a40b (16)
+[0430/173323:INFO:CONSOLE(1)] "Uncaught ReferenceError: Swal is not defined", source: https://www.gamesow.com/playgame/11/ (1)
+[0430/173325:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/173325:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/173325:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/173824:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/173825:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282632&server_name=S53&flag=d8150a94769db20bfc24821bc28ee857' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282632&server_name=S53&flag=d8150a94769db20bfc24821bc28ee857 (16)
+[0430/173843:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/173843:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/173843:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/174035:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/174035:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282762&server_name=S53&flag=d06d71a190426fbc67f07e4edef5f8d3' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282762&server_name=S53&flag=d06d71a190426fbc67f07e4edef5f8d3 (16)
+[0430/174055:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/174103:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/174103:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282790&server_name=S53&flag=9c8168d0cf767025bbdc271fc14f7eb1' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282790&server_name=S53&flag=9c8168d0cf767025bbdc271fc14f7eb1 (16)
+[0430/174107:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/174113:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/174114:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282800&server_name=S53&flag=fd5049ff651d71e384ef28c1da2a7c5b' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588282800&server_name=S53&flag=fd5049ff651d71e384ef28c1da2a7c5b (16)
+[0430/174114:INFO:CONSOLE(1)] "Uncaught ReferenceError: Swal is not defined", source: https://www.gamesow.com/playgame/11/ (1)
+[0430/174115:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/174115:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/174139:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/175636:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/175637:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588283723&server_name=S53&flag=d39c5e69b957e87192b1c13b2f2b69cf' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588283723&server_name=S53&flag=d39c5e69b957e87192b1c13b2f2b69cf (16)
+[0430/175719:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/175720:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588283767&server_name=S53&flag=6e07028b8ca484a4a8bb60947ae524e4' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588283767&server_name=S53&flag=6e07028b8ca484a4a8bb60947ae524e4 (16)
+[0430/175720:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/175721:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/175832:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/52/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/52/ (357)
+[0430/175832:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588283840&server_name=S52&flag=8a879a33f5b21312a35a9474cb19d816' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588283840&server_name=S52&flag=8a879a33f5b21312a35a9474cb19d816 (16)
+[0430/175834:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/175834:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/175834:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/180011:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/180011:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588283938&server_name=S52&flag=cdbe44a12706afc44cad4bf10f0c3800' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588283938&server_name=S52&flag=cdbe44a12706afc44cad4bf10f0c3800 (16)
+[0430/180012:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/180013:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/180013:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/180013:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/180043:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/180043:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588283970&server_name=S52&flag=d655089167c4443fe3a5eef9f5f2fb0f' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588283970&server_name=S52&flag=d655089167c4443fe3a5eef9f5f2fb0f (16)
+[0430/180043:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/180045:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/180045:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/180045:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/180145:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/180145:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 240ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180157:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180157:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180200:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180200:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180200:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180200:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180200:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180200:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/180200:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180201:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/180201:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/180517:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/180555:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/180556:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588284283&server_name=S52&flag=f5ce0d18b93b7e406f823a1e5dff0445' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S52&time=1588284283&server_name=S52&flag=f5ce0d18b93b7e406f823a1e5dff0445 (16)
+[0430/180556:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/180558:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/180558:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/180558:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/180606:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/53' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/53 (357)
+[0430/180606:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588284288&server_name=S53&flag=ec9608266ac8b81de307b962c636f19e' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588284288&server_name=S53&flag=ec9608266ac8b81de307b962c636f19e (16)
+[0430/180609:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/180713:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/180714:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588284361&server_name=S53&flag=9e7f0900d0359d895c7990cd861625b2' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588284361&server_name=S53&flag=9e7f0900d0359d895c7990cd861625b2 (16)
+[0430/180714:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/180716:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/180716:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/180716:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/180741:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/180741:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/182012:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182013:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285139&server_name=S53&flag=70ee9cb67ca1f02bc3438ac7b879094f' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285139&server_name=S53&flag=70ee9cb67ca1f02bc3438ac7b879094f (16)
+[0430/182013:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/182015:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/182015:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/182207:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182208:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285255&server_name=S53&flag=23165d192d4fa6c6d5d7badab6b2f89e' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285255&server_name=S53&flag=23165d192d4fa6c6d5d7badab6b2f89e (16)
+[0430/182208:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/182209:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/182209:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/182209:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/182314:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182314:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285321&server_name=S53&flag=48271478072493397502622efdb3fa5b' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285321&server_name=S53&flag=48271478072493397502622efdb3fa5b (16)
+[0430/182339:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[0430/182339:ERROR:ipc_channel_win.cc(475)] pipe error: 109
+[0430/182419:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182419:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285386&server_name=S53&flag=f97ad7d6ff1b50955fe2316f8ee58e4a' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285386&server_name=S53&flag=f97ad7d6ff1b50955fe2316f8ee58e4a (16)
+[0430/182419:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/182421:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/182421:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/182439:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182440:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 238ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182450:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182450:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182452:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182453:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182453:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182559:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182600:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285487&server_name=S53&flag=25936e3ffed6c3728491455f0ade91ee' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285487&server_name=S53&flag=25936e3ffed6c3728491455f0ade91ee (16)
+[0430/182600:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/182601:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/182601:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/182601:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/182611:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182611:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 222ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182621:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182621:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182624:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182624:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182645:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182646:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 265ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182655:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182655:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 206ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182656:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182656:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182658:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182658:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 202ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182700:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182700:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182701:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182708:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182709:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182711:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182711:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 311ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182712:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182712:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182713:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182716:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182716:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182716:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182716:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182716:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182717:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182717:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182717:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182717:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182717:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182718:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182724:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182724:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182727:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182727:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182754:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182754:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285601&server_name=S53&flag=91278277498e43078b9ab425ce80a24b' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285601&server_name=S53&flag=91278277498e43078b9ab425ce80a24b (16)
+[0430/182754:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/182756:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/182756:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/182800:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182800:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 305ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182812:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182812:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182814:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182814:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182814:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182814:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182814:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182814:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182814:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182815:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182815:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182838:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/182839:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285645&server_name=S53&flag=6d6a71b169b283d04b2e1bf3eda58920' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588285645&server_name=S53&flag=6d6a71b169b283d04b2e1bf3eda58920 (16)
+[0430/182839:INFO:CONSOLE(8)] "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': 1 argument required, but only 0 present.", source: https://www.gamesow.com/playgame/11/ (8)
+[0430/182840:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/182840:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/182840:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/182848:INFO:CONSOLE(44)] "[FAST CONNECT] wss://gateway.discord.gg/?encoding=json&v=6&compress=zlib-stream, encoding: json, version: 6", source: https://discordapp.com/app (44)
+[0430/182848:INFO:CONSOLE(1)] "[FAST CONNECT] connected in 300ms", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182858:INFO:CONSOLE(1)] "[BUILD INFO] Release Channel: stable, Build Number: 59223, Version Hash: 3569d4e6c93999b8bca9fa07626bcaf2a87760ef", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182859:INFO:CONSOLE(1)] "WebRTC is not supported on", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:INFO:CONSOLE(1)] "%c[GatewayDiscovery]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:ERROR:render_media_log.cc(20)] MediaEvent: PIPELINE_ERROR demuxer: could not open
+[0430/182901:INFO:CONSOLE(1)] "Unhandled promise rejection", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:INFO:CONSOLE(1)] "%c[GatewaySocket]", source: https://discordapp.com/assets/bfcf7a9e83b92eaee5bd.js (1)
+[0430/182901:WARNING:http_cache_transaction.cc(2056)] Multiple or malformed validation headers found.
+[0430/182937:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/182937:WARNING:channel.cc(359)] RawChannel write error
+[0430/183934:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/183934:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286301&server_name=S53&flag=c527bc81ca2b0ed0557a0155dc864218' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286301&server_name=S53&flag=c527bc81ca2b0ed0557a0155dc864218 (16)
+[0430/183936:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/183936:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/183936:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/183937:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=4
+[0430/184019:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/184020:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286347&server_name=S53&flag=2d7ad1ca7ef3e23391af269701fac33a' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286347&server_name=S53&flag=2d7ad1ca7ef3e23391af269701fac33a (16)
+[0430/184022:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/184022:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/184022:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/184106:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/184106:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286393&server_name=S53&flag=82d679ed4164768da2344a5264f0edbb' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286393&server_name=S53&flag=82d679ed4164768da2344a5264f0edbb (16)
+[0430/184108:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/184108:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/184108:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/184244:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/184244:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/184244:WARNING:channel.cc(359)] RawChannel write error
+[0430/184318:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/184318:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286525&server_name=S53&flag=c104d4891bea50b7ada213a1051ea36c' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286525&server_name=S53&flag=c104d4891bea50b7ada213a1051ea36c (16)
+[0430/184320:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/184320:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/184336:INFO:CONSOLE(5)] "Uncaught TypeError: Cannot set property 'innerHTML' of null", source: about:blank (5)
+[0430/184338:INFO:CONSOLE(5)] "Uncaught TypeError: Cannot set property 'innerHTML' of null", source: about:blank (5)
+[0430/184649:INFO:CONSOLE(14)] "Uncaught ReferenceError: JQuery is not defined", source: about:blank (14)
+[0430/184656:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/184656:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286743&server_name=S53&flag=11cc7fcdb3eca3acf644e87437989552' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286743&server_name=S53&flag=11cc7fcdb3eca3acf644e87437989552 (16)
+[0430/184656:INFO:CONSOLE(14)] "Uncaught ReferenceError: JQuery is not defined", source: about:blank (14)
+[0430/184656:INFO:CONSOLE(14)] "Uncaught ReferenceError: JQuery is not defined", source: about:blank (14)
+[0430/184658:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/184658:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/184716:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/184716:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/184716:WARNING:channel.cc(359)] RawChannel write error
+[0430/184725:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/184725:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286772&server_name=S53&flag=e5cecf1dd6a2505385c5144ff90efd44' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286772&server_name=S53&flag=e5cecf1dd6a2505385c5144ff90efd44 (16)
+[0430/184726:INFO:CONSOLE(14)] "Uncaught ReferenceError: JQuery is not defined", source: about:blank (14)
+[0430/184726:INFO:CONSOLE(14)] "Uncaught ReferenceError: JQuery is not defined", source: about:blank (14)
+[0430/184727:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/184727:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/184727:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/184800:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/184800:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286807&server_name=S53&flag=975257ad7463efcefd1929cfb84a940d' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286807&server_name=S53&flag=975257ad7463efcefd1929cfb84a940d (16)
+[0430/184802:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/184802:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/184802:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/184802:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=4
+[0430/185000:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185000:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286927&server_name=S53&flag=58b186afe949fd4b0fb8c76264aa621f' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588286927&server_name=S53&flag=58b186afe949fd4b0fb8c76264aa621f (16)
+[0430/185002:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185002:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185002:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/185319:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/185319:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/185319:WARNING:channel.cc(359)] RawChannel write error
+[0430/185421:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185421:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287188&server_name=S53&flag=43eceb43a144b4abfb599706eb3543fd' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287188&server_name=S53&flag=43eceb43a144b4abfb599706eb3543fd (16)
+[0430/185423:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185423:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185549:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185550:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287277&server_name=S53&flag=b867475e248aa3784cdba5f5d145e4bd' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287277&server_name=S53&flag=b867475e248aa3784cdba5f5d145e4bd (16)
+[0430/185551:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185551:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185624:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185624:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287311&server_name=S53&flag=38343d84048b146781ad0a04a44ab601' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287311&server_name=S53&flag=38343d84048b146781ad0a04a44ab601 (16)
+[0430/185626:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185626:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185626:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/185635:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/185635:WARNING:channel.cc(359)] RawChannel write error
+[0430/185841:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185841:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287448&server_name=S53&flag=cd57dbfc12ad313b91d06679268cbf64' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287448&server_name=S53&flag=cd57dbfc12ad313b91d06679268cbf64 (16)
+[0430/185843:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185843:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185843:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/185916:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185916:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287483&server_name=S53&flag=c04f455b882c00376651b44a8f1fef85' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287483&server_name=S53&flag=c04f455b882c00376651b44a8f1fef85 (16)
+[0430/185918:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185918:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185918:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/185939:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/185939:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287506&server_name=S53&flag=1f8bce7ab10af9b23663ba449f6ccac9' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287506&server_name=S53&flag=1f8bce7ab10af9b23663ba449f6ccac9 (16)
+[0430/185941:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/185941:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/185941:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/190110:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/190110:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287597&server_name=S53&flag=ab6285d2a4ed8a1cd473c03a9cd418c5' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287597&server_name=S53&flag=ab6285d2a4ed8a1cd473c03a9cd418c5 (16)
+[0430/190112:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/190112:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/190112:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3
+[0430/190121:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/190121:WARNING:channel.cc(359)] RawChannel write error
+[0430/190148:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/190148:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287635&server_name=S53&flag=df3ffdabc40bf7c9ef8a6d5dc6d6213d' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287635&server_name=S53&flag=df3ffdabc40bf7c9ef8a6d5dc6d6213d (16)
+[0430/190151:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/190151:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/190156:WARNING:raw_channel_win.cc(532)] WriteFile: Se está cerrando la canalización. (0xE8)
+[0430/190156:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[0430/190156:WARNING:channel.cc(359)] RawChannel write error
+[0430/190705:INFO:CONSOLE(357)] "Mixed Content: The page at 'https://www.gamesow.com/playgame/11/' was loaded over HTTPS, but requested an insecure image 'http://static.gamesow.com/br/topbar3/images/icon-1.png'. This content should also be served over HTTPS.", source: https://www.gamesow.com/playgame/11/ (357)
+[0430/190706:INFO:CONSOLE(16)] "Mixed Content: The page at 'https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287953&server_name=S53&flag=34785952bf1513da3346fb94b7459571' was loaded over HTTPS, but requested an insecure image 'http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif'. This content should also be served over HTTPS.", source: https://res-mssp2.gamesow.com/bin/WebLaucher.html?userid=2381136&username=2381136&cm=1&server_id=S53&time=1588287953&server_name=S53&flag=34785952bf1513da3346fb94b7459571 (16)
+[0430/190708:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=1
+[0430/190708:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=2
+[0430/190708:WARNING:audio_sync_reader.cc(112)] AudioSyncReader::Read timed out, audio glitch count=3

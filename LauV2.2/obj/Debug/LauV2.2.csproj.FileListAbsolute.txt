@@ -1,0 +1,14 @@
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\bin\Debug\LauV2.2.exe.config
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\bin\Debug\LauV2.2.exe
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\bin\Debug\LauV2.2.pdb
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\bin\Debug\MetroFramework.dll
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2.2.csprojAssemblyReference.cache
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2._2.Form1.resources
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2._2.Properties.Resources.resources
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2.2.csproj.GenerateResource.cache
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2.2.csproj.CoreCompileInputs.cache
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2.2.csproj.CopyComplete
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2.2.exe
+C:\Users\Wintonmc\source\repos\LauV2.2\LauV2.2\obj\Debug\LauV2.2.pdb
